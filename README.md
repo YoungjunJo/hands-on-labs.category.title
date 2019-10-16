@@ -1,2 +1,2 @@
 # handsonlabs
-handsonlabs setup 
+handsonlabs setup setup
