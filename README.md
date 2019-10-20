@@ -1,2 +1,2 @@
 # handsonlabs
-handsonlabs setup setup
+handsonlabs deoloy test
