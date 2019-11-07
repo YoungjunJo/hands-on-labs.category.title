@@ -57,7 +57,7 @@ source_encoding = 'utf-8'
 master_doc = 'index'
 
 # General information about the project.
-project = 'English title'
+project = u'한글제목'
 copyright = 'NHN Corp. All rights reserved.'
 author = ''
 
